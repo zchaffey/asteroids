@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AsteroidsGraphics
+comment1.params=xc\ yc\ as\ score\ endgame
+comment1.target=AsteroidsGraphics(double,\ double,\ java.util.ArrayList,\ int,\ boolean)
+comment2.params=xc\ yc\ angle
+comment2.target=void\ updateplayer(double,\ double,\ int)
+comment3.params=shots\ shotfired
+comment3.target=void\ updateshots(java.util.ArrayList,\ boolean)
+comment4.params=as
+comment4.target=void\ updateAsteroid(java.util.ArrayList)
+comment5.params=score
+comment5.target=void\ updatescore(int)
+comment6.params=endgame
+comment6.target=void\ updateendgame(boolean)
+comment7.params=g
+comment7.target=void\ paint(java.awt.Graphics)
+numComments=8

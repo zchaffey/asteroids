@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Shot
+comment1.params=x\ y\ angle
+comment1.target=Shot(double,\ double,\ double)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=boolean\ checkoutofbound()
+comment5.params=
+comment5.target=void\ moveShot()
+numComments=6

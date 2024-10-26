@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Asteroids
+comment1.params=x\ y\ xdir\ ydir
+comment1.target=Asteroids(int,\ int,\ int,\ int)
+comment10.params=s
+comment10.target=boolean\ checkdetection2(Shot)
+comment11.params=
+comment11.target=void\ checkinplay()
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=boolean\ getHit()
+comment5.params=hit
+comment5.target=void\ setHit(boolean)
+comment6.params=
+comment6.target=int\ getLength()
+comment7.params=
+comment7.target=int\ getHeight()
+comment8.params=
+comment8.target=void\ moveAsteroid()
+comment9.params=s
+comment9.target=boolean\ checkdetection(Shot)
+numComments=12
